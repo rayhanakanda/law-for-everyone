@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/yXvh4qV/corporate-law.jpg",
+    "service": "CORPORATE & COMMERCIAL LEGAL SERVICES",
+    "details": "LFE's corporate & commercial legal services in Bangladesh acts for various foreign and domestic producers, distributors, service suppliers, trade associations in a broad range of international trade and services matters, from technology to heavy industry, to telecommunications.",
+    "price": 205
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/8m7fgQW/financilal.jpg",
+    "service": "FINANCIAL LEGAL SERVICES",
+    "details": "LFE provides extensive and specialized real estate and environment legal service in Bangladesh in relation to investigations of commercial and residential properties, determination of title and interests, examination property documents etc.",
+    "price": 1010
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/gZ12mGf/Joint-Venture.jpg",
+    "service": "JOINT VENTURE LEGAL SERVICE",
+    "details": "As a reputed international law firm, we assist both local and foreign clients in opening Joint Ventures companies with the assistance from our Company Lawyers in Bangladesh in various industries such as aviation industry, energy industry, logistics industry etc. Our services include the following:.",
+    "price": 1500
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/4d73cZz/bank.jpg",
+    "service": "BANKING AND FINANCE LEGAL SERVICES",
+    "details": "Bangladesh Bank is the main regulatory body of the country’s monetary and financial system, and such is the authority that regulates banking and financial legal services in Bangladesh. It was established on 16th December 1971, through the Bangladesh Bank Order 1972- President’s Order No. 127 of 1972 (Amended in 2003). The Chief Executive Officer of this monumental institution is also as the Governor",
+    "price": 599
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/KLmM7Vd/intellectual-property.jpg",
+    "service": "Intellectual Property Legal Services",
+    "details": "LFE is one of the leading Intellectual Property Law Firms in Bangladesh, providing a wide range of Intellectual property legal services in Bangladesh. Our services include registrations, renewals, rectification of Trade Mark, Patent, and Copyright. Intellectual Property Lawyers in Bangladesh needs a great deal of expertise to handle matter delicately. Furthermore, our experienced attorneys provide litigation services for any breach of Intellectual Property Law which includes issuing and/or reply legal notices for any infringement of the Intellectual Property rights, filing litigation, attending hearing etc.",
+    "price": 700
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/WDqXycc/Mediation-Lawyers-1.jpg",
+    "service": "NEGOTIATION & MEDIATION LEGAL SERVICES",
+    "details": "Owing to the piles of cases already pending at the civil courts of Bangladesh and the associated hassles, out-of-court settlements or alternative dispute resolutions are gaining popularity. At FM Associates, when situation permits, we always advise our clients to settle the issue mutually by way of negotiation, and if they ever need a lawyer to assist them in negotiations, we provide them with the best in terms of qualification, experience and maturity.",
+    "price": 399
+  }
+]

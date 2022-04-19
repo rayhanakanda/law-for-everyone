@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "img": "https://i.ibb.co/jHCJK9f/mem-3.png",
+    "name": "Khokon Sharma",
+    "time": "Reviewed in the Dhaka on November 8, 2021",
+    "title": "Dedicated Team",
+    "review": "I am highly pleased with them they have dedicated team."
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/kmLmWP5/mem-1.png",
+    "name": "Masud Kabir",
+    "time": "Reviewed in Rangpur on January 10, 2021",
+    "title": "Amazing Service.",
+    "review": "They are highly profitioal , The have dedicate theam, There service is just amazing."
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/hZWqjd4/mem-2.png",
+    "name": "Esrat Sultana",
+    "time": "Reviewed in Barishal on May 16, 2021",
+    "title": "Lanrned lawyears",
+    "review": "I am very pleased for their service , they have a group of larned lawyear , I am highly recomendig their services."
+  }
+]
